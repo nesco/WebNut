@@ -1,7 +1,7 @@
-// Source code from MC-Server.
+// Source code from MC-Server, will be removed soon.
 
 
-class Socket
+class cSocket
 {
 public:
         enum eFamily
